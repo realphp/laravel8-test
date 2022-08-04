@@ -2,6 +2,7 @@
 # master 1
 # feature1 1
 # feature1 12
+# feature1 a
 #FROM node:alpine as frontend
 #
 #COPY package.json /app/
