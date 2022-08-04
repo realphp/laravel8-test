@@ -3,6 +3,7 @@
 # feature1 1
 # feature1 12
 # feature1 a
+# feature1 b
 #FROM node:alpine as frontend
 #
 #COPY package.json /app/
